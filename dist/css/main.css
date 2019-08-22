@@ -56,7 +56,7 @@
       width: 250px;
       height: 250px;
       border-radius: 50%;
-      background: url("../../cmd.jpg");
+      background: url("../img/l2.jpg");
       border: solid 3px #eece1a; }
   .menu .nav-item.current > a {
     color: #eece1a; }
